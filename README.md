@@ -14,7 +14,7 @@ A multi-model pipeline integrating LLM and voice processing that creates a fully
 
 ## OpenAI Setup
 1. **Setup Your API Key**
-   - Follow [Step 2](https://platform.openai.com/docs/quickstart?context=python) in the OpenAI Quickstart guide to set up your API key.
+   - Follow [setup](https://platform.openai.com/docs/libraries) in the OpenAI Quickstart guide to set up your API key.
 
 3. **Add Enviromental Variable**
    - Based on the environment being used, follow according setup for environmental variables to add your OpenAI API key
