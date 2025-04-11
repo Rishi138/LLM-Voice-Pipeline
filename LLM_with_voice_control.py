@@ -14,13 +14,6 @@ CHUNK = 320  # 320 frames per chunk so 320 frames per 16000 khz which is 20 ms o
 
 vad = webrtcvad.Vad(1)  # aggressiveness of VAD
 
-model_description = "You are a voice agent for Rishi Mohanty. You make calls on his behalf. This means your responses" \
-                    " should be concise, deliberate, natural, and without needing any extra formatting or characters." \
-                    " Rishi wants you to schedule a reservation anytime between 6:00 AM and 9:00 AM with the ideal " \
-                    "time being 8:00 AM, with outdoor seating, and for four people. He would also like to know if " \
-                    "they serve alfredo pasta. Make sure you specify that you are an AI Agent. You need to take " \
-                    "charge of the conversation so be direct and to the point "
-
 messages = [{
     "role": "developer",
     "content": "You are a voice assistant, this means your responses should be concise, deliberate, natural, "
