@@ -22,7 +22,7 @@ A multi-model pipeline integrating LLM and voice processing that creates a fully
 ## Installation
 1. **Clone Repository**
 ```sh
-git clone https://github.com/Rishi138/gmail-agent.git
+git clone https://github.com/Rishi138/LLM-Voice-Pipeline.git
 cd gmail-agent
 ```
 
